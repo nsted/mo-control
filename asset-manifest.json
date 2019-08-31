@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mo-control/static/css/main.9dac10b4.chunk.css",
+    "main.js": "/mo-control/static/js/main.0ffec6c1.chunk.js",
+    "main.js.map": "/mo-control/static/js/main.0ffec6c1.chunk.js.map",
+    "runtime~main.js": "/mo-control/static/js/runtime~main.a39f5cbe.js",
+    "runtime~main.js.map": "/mo-control/static/js/runtime~main.a39f5cbe.js.map",
+    "static/css/2.acb2215f.chunk.css": "/mo-control/static/css/2.acb2215f.chunk.css",
+    "static/js/2.c2d6fb93.chunk.js": "/mo-control/static/js/2.c2d6fb93.chunk.js",
+    "static/js/2.c2d6fb93.chunk.js.map": "/mo-control/static/js/2.c2d6fb93.chunk.js.map",
+    "index.html": "/mo-control/index.html",
+    "precache-manifest.104ae9a964ab0e8e3419675d92e8d876.js": "/mo-control/precache-manifest.104ae9a964ab0e8e3419675d92e8d876.js",
+    "service-worker.js": "/mo-control/service-worker.js",
+    "static/css/2.acb2215f.chunk.css.map": "/mo-control/static/css/2.acb2215f.chunk.css.map",
+    "static/css/main.9dac10b4.chunk.css.map": "/mo-control/static/css/main.9dac10b4.chunk.css.map"
+  }
+}
